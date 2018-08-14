@@ -1,0 +1,13 @@
+
+	pageContext	javax.servlet.jsp.pageContext
+	page		this
+	request		javax.servlet.http.HttpServletRequest
+	sesssion	javax.servlet.http.session
+	application	javax.servlet.Context
+	out		javax.servlet.jsp.jsoWripter
+	response	javax.servlet.http.HttpServletResponse
+	exception	java.lang.Throwable
+	config		java.servlet.servletConfig
+
+	aaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
